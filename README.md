@@ -1,7 +1,6 @@
 # Hello, world! 👋  
 ### I'm **Stashko Vitalii**  
-Welcome to my GitHub profile! I’m passionate about learning new technologies, solving problems, and improving my programming skills. 🚀  
-
+Welcome to my GitHub profile! I learn new technologies, solve problems and improve my programming skills. 🚀
 ---
 
 ## 🌱 Currently Studying At:
