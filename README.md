@@ -30,11 +30,11 @@ Welcome to my GitHub profile! I’m passionate about learning new technologies, 
 
 ## 🛠 Skills:
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-FFB300?style=for-the-badge&logo=python&logoColor=white" width="50" height="50" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white" width="50" height="50" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-4CAF50?style=for-the-badge&logo=linux&logoColor=white" width="50" height="50" alt="Linux" />
-  <img src="https://img.shields.io/badge/MacOS-2196F3?style=for-the-badge&logo=apple&logoColor=white" width="50" height="50" alt="MacOS" />
-  <img src="https://img.shields.io/badge/VS_Code-0D47A1?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="50" height="50" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Python-FFB300?style=for-the-badge&logo=python&logoColor=white" width="60" height="30" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white" width="60" height="30" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-4CAF50?style=for-the-badge&logo=linux&logoColor=white" width="60" height="30" alt="Linux" />
+  <img src="https://img.shields.io/badge/MacOS-2196F3?style=for-the-badge&logo=apple&logoColor=white" width="60" height="30" alt="MacOS" />
+  <img src="https://img.shields.io/badge/VS_Code-0D47A1?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="60" height="30" alt="VS Code" />
 </div>
 
 ---
