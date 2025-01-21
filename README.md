@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I’m passionate about learning new technologies, 
 ## 🌱 Currently Studying At:
 <div>
   <a href="http://stepik.org/users/973023244/profile" target="_blank">
-    <img src="https://img.shields.io/badge/Stepik-8B0000?style=for-the-badge&logo=stepik&logoColor=white" alt="Stepik" />
+    <img src="https://img.shields.io/badge/Stepik-D32F2F?style=for-the-badge&logo=stepik&logoColor=white" alt="Stepik" />
   </a>
   <a href="https://www.udemy.com/user/vitalii-3171/" target="_blank">
-    <img src="https://img.shields.io/badge/Udemy-8B0000?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
+    <img src="https://img.shields.io/badge/Udemy-FF7043?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
   </a>
 </div>
 
@@ -19,10 +19,10 @@ Welcome to my GitHub profile! I’m passionate about learning new technologies, 
 ## 📬 Contact Me:
 <div>
   <a href="mailto:VitaliiStashko3008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-FF3D00?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://t.me/Stashko_V" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-8B0000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
 
@@ -30,11 +30,11 @@ Welcome to my GitHub profile! I’m passionate about learning new technologies, 
 
 ## 🛠 Skills:
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" width="36" height="36" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white" width="36" height="36" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=white" width="36" height="36" alt="Linux" />
-  <img src="https://img.shields.io/badge/MacOS-8B0000?style=for-the-badge&logo=apple&logoColor=white" width="36" height="36" alt="MacOS" />
-  <img src="https://img.shields.io/badge/VS_Code-8B0000?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="36" height="36" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Python-FFB300?style=for-the-badge&logo=python&logoColor=white" width="50" height="50" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white" width="50" height="50" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-4CAF50?style=for-the-badge&logo=linux&logoColor=white" width="50" height="50" alt="Linux" />
+  <img src="https://img.shields.io/badge/MacOS-2196F3?style=for-the-badge&logo=apple&logoColor=white" width="50" height="50" alt="MacOS" />
+  <img src="https://img.shields.io/badge/VS_Code-0D47A1?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="50" height="50" alt="VS Code" />
 </div>
 
 ---
